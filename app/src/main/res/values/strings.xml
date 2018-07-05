@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Preclaboard</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+    <string name="favarray">com.krawiec.piotr.preclaboard.favourite_array</string>
+    <string name="added">Dodałem dźwięk do ulubionych</string>
+    <string name="add_something_pls">Niczego tu jeszcze niema. Śmiało dodak twoje ulubione dźwięki. Poprostu przetrzymaj palec na przycisku :)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Ustawienia</string>
+    <string name="ustawienie_wielości_przycisków">Wielkość przycisków</string>
+</resources>
